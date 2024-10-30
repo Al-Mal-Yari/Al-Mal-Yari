@@ -1,9 +1,10 @@
-## Hi I'm Al/Uno 👋
+# Hi I'm Al/Uno 👋
 
 I’m a Computer Engineer from the Polytechnic University of the Philippines, focusing on Data Science and Machine Learning with a specific interest in their applications in academic research, engineering, and the sciences.
 
-#About Me:
+## About Me:
 - 🏫 Studied Computer Engineering at the Polytechnic University of the Philippines
+- 🏢 Currently a Junior Fullstack Developer Intern at the University of the Philippines Manila DRRM-H Program
 - 🔭 I’m currently working on a Web Application entitled "Inventory & Equipment Management and Monitoring System".
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 🤔 I’m looking for help with Data Science & Machine Learning
