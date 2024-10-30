@@ -14,14 +14,14 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=al-mal-yari&theme=calm&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=14400"/>
-  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=al-mal-yari&theme=calm&hide_border=false&cache_seconds=14400"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-mal-yari&theme=calm&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache_seconds=14400"/>
+  <img height="123em" src="https://github-readme-stats.vercel.app/api?username=al-mal-yari&theme=calm&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=14400"/>
+  <img height="123em" src="https://github-readme-streak-stats.herokuapp.com/?user=al-mal-yari&theme=calm&hide_border=false&cache_seconds=14400"/>
+  <img height="123em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-mal-yari&theme=calm&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache_seconds=14400"/>
 </div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img height="120em" src="https://github-contributor-stats.vercel.app/api?username=al-mal-yari&limit=5&theme=calm&combine_all_yearly_contributions=true&cache_seconds=14400"/>
+  <img height="123em" src="https://github-contributor-stats.vercel.app/api?username=al-mal-yari&limit=5&theme=calm&combine_all_yearly_contributions=true&cache_seconds=14400"/>
 </div>
 
 ---
