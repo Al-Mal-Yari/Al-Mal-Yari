@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Al, a Computer Engineer from PUP interested in Data Science & Machine Learning!
+My name is Al, a Computer Engineer from PUP interested in Data Science & Machine Learning and their applications on academic research, engineering, and sciences!
 
 - 🔭 I’m currently working on an Inventory & Equipment Management and Monitoring System Web Application.
 - 🌱 I’m currently learning Data Science & Machine Learning
