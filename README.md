@@ -6,7 +6,7 @@ My name is Al, a Computer Engineer from PUP interested in Data Science & Machine
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 🤔 I’m looking for help with Data Science & Machine Learning
 - 📫 How to reach me: allainemallari26@gmail.com
-
+https://github.com/Al-Mal-Yari/JavaScript-RPG-Starter-1
 <!--
 **Al-Mal-Yari/Al-Mal-Yari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
