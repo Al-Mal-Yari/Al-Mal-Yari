@@ -2,10 +2,10 @@
 
 My name is Al, a Computer Engineer from PUP interested in Data Science & Machine Learning!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on an Inventory & Equipment Management and Monitoring System Web Application.
+- 🌱 I’m currently learning Data Science & Machine Learning
+- 🤔 I’m looking for help with Data Science & Machine Learning
+- 📫 How to reach me: allainemallari26@gmail.com
 
 <!--
 **Al-Mal-Yari/Al-Mal-Yari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
