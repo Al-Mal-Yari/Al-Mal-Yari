@@ -15,12 +15,12 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img style="width: 43%; max-width: 300px; height: auto; margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=al-mal-yari&theme=calm&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=14400"/>
-    <img style="width: 47%; max-width: 300px; height: auto; margin: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=al-mal-yari&theme=calm&hide_border=false&cache_seconds=14400"/>
+    <img style="width: 45%; max-width: 300px; height: auto; margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=al-mal-yari&theme=calm&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=14400"/>
+    <img style="width: 49%; max-width: 300px; height: auto; margin: 5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=al-mal-yari&theme=calm&hide_border=false&cache_seconds=14400"/>
   </div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-    <img style="width: 43%; max-width: 300px; height: auto; margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-mal-yari&theme=calm&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache_seconds=14400"/>
-    <img style="width: 47%; max-width: 300px; height: auto; margin: 5px;" src="https://github-contributor-stats.vercel.app/api?username=al-mal-yari&limit=5&theme=calm&combine_all_yearly_contributions=true&cache_seconds=14400"/>
+    <img style="width: 45%; max-width: 300px; height: auto; margin: 5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-mal-yari&theme=calm&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache_seconds=14400"/>
+    <img style="width: 49%; max-width: 300px; height: auto; margin: 5px;" src="https://github-contributor-stats.vercel.app/api?username=al-mal-yari&limit=5&theme=calm&combine_all_yearly_contributions=true&cache_seconds=14400"/>
   </div>
 </div>
 
