@@ -2,7 +2,7 @@
 
 I’m a Computer Engineer from the Polytechnic University of the Philippines, focusing on Data Science and Machine Learning with a specific interest in their applications in academic research, engineering, and the sciences.
 
-About Me
+#About Me:
 - 🏫 Studied Computer Engineering at the Polytechnic University of the Philippines
 - 🔭 I’m currently working on a Web Application entitled "Inventory & Equipment Management and Monitoring System".
 - 🌱 I’m currently learning Data Science & Machine Learning
