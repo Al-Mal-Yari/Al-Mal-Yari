@@ -2,7 +2,7 @@
 
 My name is Al, a Computer Engineer from PUP interested in Data Science & Machine Learning and their applications on academic research, engineering, and sciences!
 
-- 🔭 I’m currently working on an Inventory & Equipment Management and Monitoring System Web Application.
+- 🔭 I’m currently working on a Web Application entitled "Inventory & Equipment Management and Monitoring System".
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 🤔 I’m looking for help with Data Science & Machine Learning
 - 📫 How to reach me: allainemallari26@gmail.com
