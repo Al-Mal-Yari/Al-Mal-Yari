@@ -26,7 +26,7 @@
    <a href="https://github.com/al-mal-yari">
     <img height="125em" src="https://github-contributor-stats.vercel.app/api?username=al-mal-yari&limit=5&theme=calm&combine_all_yearly_contributions=true&cache_seconds=0"/>
   </a>
-</div>
+</div> 
 
 ---
 
