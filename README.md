@@ -6,7 +6,6 @@
 - 📊 Junior Data and Machine Learning Associate at Google Developer Groups on Campus — Polytechnic University of the Philippines
 - 🔭 I’m currently working on a Web Application entitled "Inventory-Equipment and Monitoring Management System".
 - 🌱 I’m currently learning Data Science & Machine Learning
-- 📫 How to reach me: allainemallari26@gmail.com
 
 ---
  
