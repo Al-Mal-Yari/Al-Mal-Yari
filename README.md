@@ -2,10 +2,8 @@
 
 ### About Me:
 - 🏫 Studied Computer Engineering at the Polytechnic University of the Philippines
-- 🏢 Full Stack Web Developer Intern at the University of the Philippines Manila DRRM-H Program
+- 🏢 Ex-Full Stack Web Developer Intern at the University of the Philippines Manila DRRM-H Program
 - 📊 Junior Data and Machine Learning Associate at Google Developer Groups on Campus — Polytechnic University of the Philippines
-- 🔭 I’m currently working on a Web Application entitled "Inventory and Equipment Management Monitoring System".
-- 🌱 I’m currently learning Data Science & Machine Learning
 
 ---
  
