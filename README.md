@@ -3,7 +3,7 @@
 ### About Me:
 - 🏫 Studied Computer Engineering at the Polytechnic University of the Philippines
 - 🏢 Ex-Full Stack Web Developer Intern at the University of the Philippines Manila DRRM-H Program
-- 📊 Junior Data and Machine Learning Associate at Google Developer Groups on Campus — Polytechnic University of the Philippines
+- 📊 Ex-Junior Data and Machine Learning Associate at Google Developer Groups on Campus — Polytechnic University of the Philippines
 
 ---
  
