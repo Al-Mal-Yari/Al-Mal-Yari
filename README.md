@@ -1,4 +1,4 @@
-## Hi I'm Al/Uno 👋
+## Hi I'm AL 👋
 
 ### About Me:
 - 🏫 Studied Computer Engineering at the Polytechnic University of the Philippines
